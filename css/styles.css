@@ -1,0 +1,29 @@
+nav ul {
+  background-color: rgb(169, 203, 233);
+  list-style-type: none;
+  margin: 0;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+nav li {
+  display: inline;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 1em;
+  padding-top: 1em;
+  background-color: royalblue;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+nav li:hover {
+  background-color: rgb(52, 84, 179);
+}
+
+.selected {
+  background-color: rgb(117, 152, 255);
+}
